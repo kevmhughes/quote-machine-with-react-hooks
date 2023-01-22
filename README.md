@@ -4,7 +4,7 @@
 A responsive random quote machine app built with React as part of the freeCodeCamp Front End Development Libraries course.
 
 ### Objective:
-Build a React app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/qRZeGZ.
+Build a React app using React Hooks that is functionally similar to this: https://codepen.io/freeCodeCamp/full/qRZeGZ.
 
 ### Project Rquirements:
 Fulfil the user stories below and get all of the tests to pass. Give it your own personal style.
@@ -46,7 +46,7 @@ https://kevmhughes.github.io/quote-machine/
 
 
 # Tech Stack
-* React 
+* React (using React Hooks)
 
 # Development Environment
 * Node
