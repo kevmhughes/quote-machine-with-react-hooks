@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quote-machine-with-react-hooks/static/css/main.564b1da6.css",
+    "main.js": "/quote-machine-with-react-hooks/static/js/main.9e08d2cc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/quote-machine-with-react-hooks/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/quote-machine-with-react-hooks/index.html",
+    "main.564b1da6.css.map": "/quote-machine-with-react-hooks/static/css/main.564b1da6.css.map",
+    "main.9e08d2cc.js.map": "/quote-machine-with-react-hooks/static/js/main.9e08d2cc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/quote-machine-with-react-hooks/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.564b1da6.css",
+    "static/js/main.9e08d2cc.js"
+  ]
+}
