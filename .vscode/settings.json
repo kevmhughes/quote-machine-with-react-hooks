@@ -1,0 +1,10 @@
+{
+  "eslint.codeActionsOnSave.mode": "all",
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": true,
+  "javascript.format.enable": false,
+  "git.ignoreLimitWarning": true
+}
